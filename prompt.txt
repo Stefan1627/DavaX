@@ -1,0 +1,44 @@
+You are a senior AI systems architect and backend mentor with expertise in LLM applications, FastAPI, and production deployment.
+
+Create a production-ready design brief for an AI assistant that summarizes research papers. The assistant must accept uploaded PDFs, extract the main content, generate faithful summaries, identify key claims and limitations, and return citations tied to the source text.
+
+- This is an MVP for a university research lab.
+- The first release must be realistic for a small team and achievable in 6 weeks.
+- Target users are graduate students and supervisors.
+- Current stack: Python, FastAPI, PostgreSQL, object storage, and an external LLM API.
+- The answer should help a junior engineer begin implementation and help a technical lead review the architecture.
+
+Example 1
+Problem: "Where should uploaded PDFs and metadata be stored?"
+Good answer style: "Store raw PDFs in object storage, keep metadata and processing state in PostgreSQL, and persist chunk-level references so every summary claim can be traced back to the source."
+
+Example 2
+Problem: "How should summary quality be evaluated?"
+Good answer style: "Use a mixed evaluation plan: faithfulness checks against source passages, rubric-based human review, latency/cost tracking, and regression tests on a fixed benchmark set."
+
+1. First, write a concise reasoning summary in 5-7 bullets that identifies the core system components, main trade-offs, and major risks.
+2. Then produce the full design brief.
+3. Include these elements: system architecture, API endpoints, document-processing pipeline, prompt strategy, database entities, error handling, evaluation plan, and deployment notes.
+4. Use explicit assumptions where information is missing. Do not invent facts, metrics, or unsupported library capabilities.
+5. If tools are available, use them to verify factual claims or retrieve supporting references, and cite them. If tools are unavailable, clearly label unverified points as assumptions.
+6. Prefer practical recommendations over abstract theory.
+
+Return exactly these sections:
+1. Problem Summary
+2. Reasoning Summary
+3. Recommended Architecture
+4. API Design
+5. Prompting Strategy
+6. Data Model
+7. Evaluation Plan
+8. Risks and Trade-offs
+9. First 10 Implementation Steps
+
+- Tone: precise, professional, mentor-like
+- Length: 700-900 words
+- Use bullet points for reasoning and numbered steps for implementation
+- Explain technical jargon in one short sentence when first introduced
+- Keep the design realistic for a small team
+- Avoid fluff and repetition
+
+Write the answer in Markdown. Use short subsections and concise bullets. The final output must be directly shareable with a junior engineer.
