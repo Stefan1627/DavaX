@@ -1,0 +1,22 @@
+### Formulas
+
+**Current monthly labor cost**
+`volume × (avg minutes / 60) × hourly cost`
+
+**Monthly labor savings**
+`current monthly labor cost × automatable share × adoption rate`
+
+**Monthly quality savings**
+`volume × current error rate × cost per error × expected reduction`
+
+**Total monthly benefit**
+`labor savings + quality savings + conservative revenue uplift`
+
+**Monthly net value**
+`total monthly benefit - monthly operating cost`
+
+**Year-1 ROI**
+`((monthly net value × 12) - one-time implementation cost) / one-time implementation cost`
+
+**Payback period (months)**
+`one-time implementation cost / monthly net value`

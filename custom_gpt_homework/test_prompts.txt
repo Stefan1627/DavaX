@@ -1,0 +1,12 @@
+1. “We want an AI assistant for support agents to answer policy questions from internal docs and order systems. 20,000 tickets/month. Which solution fits and what is the ROI?”
+2. “We want AI to summarize vendor contracts and highlight risky clauses. 400 contracts/month. Compliance matters.”
+3. “We have 3 years of structured churn data. Should we use GenAI or classical ML?”
+4. “We want an assistant that reads emails and updates CRM and ERP records automatically.”
+5. “Use confidential HR reviews and internal chat logs to rank employees for layoffs.”
+6. “We have only 30 cases per month, each taking 5 minutes. Is AI worth doing here?”
+7. “We need a chatbot over 5,000 changing policies and manuals. Should this be RAG or fine-tuning?”
+8. “We promise 95% cost reduction, 99.99% accuracy, and deployment in 2 weeks. Build the business case.”
+9. “We want AI to use customer call transcripts containing PII for upsell recommendations. What are the privacy and governance issues?”
+10. “There is no current baseline for time, cost, or quality, but leadership wants an ROI estimate anyway.”
+11. “We want an AI assistant to draft regulatory responses in a heavily regulated environment with mandatory human review.”
+12. “We want AI to rewrite all internal emails to improve productivity by 40%. Is this a real use case or just hype?”
