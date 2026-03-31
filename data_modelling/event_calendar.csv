@@ -1,0 +1,9 @@
+event_id,employee_code,event_date,event_name,event_type,duration_hours,location
+1,E001,02-MAR-26,Sprint Planning,MEETING,2,Room A
+2,E002,03-MAR-26,Architecture Sync,MEETING,1.5,Room B
+3,E003,04-MAR-26,QA Training,TRAINING,3,Online
+4,E004,02-MAR-26,Ops Incident Review,MEETING,1,Room C
+5,E005,05-MAR-26,Reporting Workshop,WORKSHOP,2,Room D
+6,E001,10-MAR-26,Client Demo Prep,MEETING,1.5,Online
+7,E002,11-MAR-26,Dev Knowledge Share,TRAINING,2,Room A
+8,E003,06-MAR-26,Automation Community Call,MEETING,1,Online
