@@ -1,0 +1,62 @@
+[
+  {
+    "title": "1984",
+    "short_summary": "A dystopian novel about total surveillance and authoritarian control.",
+    "themes": ["freedom", "control", "surveillance", "truth"],
+    "detailed_summary": "George Orwell's novel follows Winston Smith..."
+  },
+  {
+    "title": "The Hobbit",
+    "short_summary": "A fantasy adventure about courage, friendship, and discovery.",
+    "themes": ["friendship", "adventure", "magic", "growth"],
+    "detailed_summary": "Bilbo Baggins is pulled into a dangerous quest..."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "short_summary": "A young boy discovers he is a wizard and begins a new life at Hogwarts.",
+    "themes": ["friendship", "magic", "identity", "courage"],
+    "detailed_summary": "Harry Potter, an orphan raised by his unkind relatives, learns on his eleventh birthday that he is a wizard. He enters Hogwarts School of Witchcraft and Wizardry, where he makes close friends, begins to understand his past, and uncovers the truth about the dark wizard who killed his parents. As strange events unfold at the school, Harry, Ron, and Hermione investigate a mystery involving the Sorcerer's Stone and confront dangers that test their bravery and loyalty."
+  },
+  {
+    "title": "The Lord of the Rings",
+    "short_summary": "A vast fantasy epic about a perilous quest to destroy a powerful ring.",
+    "themes": ["friendship", "power", "sacrifice", "good versus evil"],
+    "detailed_summary": "In Middle-earth, the dark lord Sauron seeks to recover the One Ring, an object of immense power that would allow him to dominate the world. Frodo Baggins inherits the ring and undertakes a dangerous journey to destroy it in the fires of Mount Doom. Along the way, he is joined by a diverse fellowship whose members face war, temptation, loss, and moral struggle. The story explores courage, loyalty, corruption, and the burden of responsibility on both ordinary and heroic figures."
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "short_summary": "A haunting anti-war novel about soldiers facing the brutality of World War I.",
+    "themes": ["war", "trauma", "loss", "disillusionment"],
+    "detailed_summary": "The novel follows Paul Bäumer, a young German soldier who enlists in World War I with his classmates, inspired by patriotic ideals. At the front, he experiences the physical horrors of trench warfare and the emotional devastation of watching friends suffer and die. As the war continues, Paul becomes increasingly alienated from civilian life and loses faith in the values that once guided him. The book presents war as dehumanizing, senseless, and destructive to an entire generation."
+  },
+  {
+    "title": "The Book Thief",
+    "short_summary": "A girl in Nazi Germany finds comfort in books amid war, loss, and danger.",
+    "themes": ["words", "death", "family", "resistance"],
+    "detailed_summary": "Set in Nazi Germany and narrated by Death, the story centers on Liesel Meminger, a young girl sent to live with foster parents during World War II. She develops a deep love of books, stealing them and sharing them with others as a way to cope with fear and grief. As her foster family hides a Jewish man in their home, Liesel witnesses both the cruelty of the regime and the quiet acts of compassion that resist it. The novel examines the power of language, the cost of war, and the fragile beauty of human connection."
+  },
+  {
+    "title": "Dune",
+    "short_summary": "A science fiction saga about power, prophecy, and survival on a desert planet.",
+    "themes": ["power", "destiny", "ecology", "religion"],
+    "detailed_summary": "Paul Atreides arrives on the desert planet Arrakis with his noble family after they are assigned control of the world's most valuable resource: the spice melange. When political betrayal destroys his house, Paul and his mother flee into the desert and seek refuge among the Fremen, the planet's native people. As Paul grows into a leader shaped by prophecy, strategy, and revenge, he becomes entangled in forces larger than himself. The novel blends political conflict, environmental vision, and questions about messianic power."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "short_summary": "A young girl witnesses injustice, empathy, and moral courage in the American South.",
+    "themes": ["justice", "racism", "empathy", "childhood"],
+    "detailed_summary": "Narrated by Scout Finch, the novel takes place in a small Alabama town during the Great Depression. Scout's father, Atticus Finch, is a lawyer who defends Tom Robinson, a Black man falsely accused of assaulting a white woman. Through Scout's eyes, the story reveals the prejudice and hypocrisy of the community, while also portraying moments of tenderness, growth, and moral clarity. The novel examines the loss of innocence and the importance of standing for justice even when doing so is unpopular or dangerous."
+  },
+  {
+    "title": "Brave New World",
+    "short_summary": "A dystopian novel about a society engineered for stability, pleasure, and conformity.",
+    "themes": ["control", "technology", "conformity", "individuality"],
+    "detailed_summary": "In a future society, human beings are artificially created and socially conditioned to fit into rigid classes, ensuring order and efficiency. Citizens are kept docile through entertainment, consumerism, and a drug called soma, which suppresses pain and unrest. When characters encounter ideas of love, freedom, and genuine suffering, the apparent perfection of the system begins to crack. The novel critiques a world where comfort and stability come at the cost of individuality, truth, and emotional depth."
+  },
+  {
+    "title": "The Little Prince",
+    "short_summary": "A poetic tale about innocence, love, and seeing the world with the heart.",
+    "themes": ["innocence", "love", "friendship", "imagination"],
+    "detailed_summary": "A pilot stranded in the desert meets a mysterious young prince who has traveled from a tiny asteroid to visit different worlds. Through the prince's encounters with adults and his reflections on his beloved rose and a fox he befriends, the story reveals the absurdities of grown-up behavior and the importance of emotional truth. Beneath its simple style, the book explores loneliness, responsibility, and the value of human connection. It suggests that what matters most cannot be measured or seen directly."
+  }
+]
